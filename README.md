@@ -1,9 +1,13 @@
 ## Initialisation
 git clone repo
 
+```sh
 yarn
+```
 
+```sh
 yarn start
+```
 
 ## Exercice
 
