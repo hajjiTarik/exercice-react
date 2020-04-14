@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Initialisation
 
 ```sh
