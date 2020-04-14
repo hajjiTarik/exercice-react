@@ -1,8 +1,8 @@
-##Exercice
+## Exercice
 
 ETQ utlisateur je veut un ecran d'authentification pour permettre d'acceder mes informations.
 
-###Formulaire de authentification:
+### Formulaire de authentification:
 deux champs [utilisateur, mot de passe]
 
 un button de connexion
