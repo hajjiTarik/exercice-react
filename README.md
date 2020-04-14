@@ -1,10 +1,11 @@
 ## Initialisation
-git clone repo
 
+```sh
+git clone https://github.com/hajjiTarik/exercice-react.git
+```
 ```sh
 yarn
 ```
-
 ```sh
 yarn start
 ```
