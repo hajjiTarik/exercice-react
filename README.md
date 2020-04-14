@@ -1,3 +1,10 @@
+## Initialisation
+git clone repo
+
+yarn
+
+yarn start
+
 ## Exercice
 
 ETQ utlisateur je veut un ecran d'authentification pour permettre d'acceder mes informations.
