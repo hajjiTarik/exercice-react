@@ -16,7 +16,7 @@ le projet se lance dans http://localhost:8080
 ETQ utlisateur je veut un ecran d'authentification pour permettre d'acceder mes informations.
 
 ### Formulaire de authentification:
-deux champs [utilisateur, mot de passe]
+deux champs [utilisateur, mot de passe] avec la validation
 
 un button de connexion
 #### au click sur le button:
