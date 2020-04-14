@@ -9,6 +9,7 @@ yarn
 ```sh
 yarn start
 ```
+le projet se lance dans http://localhost:8080
 
 ## Exercice
 
