@@ -39,7 +39,7 @@ reponse ws :
         "status": "obsolete"
     }
 
-les informations doivent avoir la forme decrite si dessus:
+les informations doivent avoir la forme decrite ci-dessous:
 
 
     ------------------------
@@ -62,6 +62,6 @@ _Sinon rien_
     
 **si connexion KO**
 
-affiché un message d'authentification en dessous du formulaire
+affiché un message d'erreur en dessous du formulaire
 
 [ws]: http://www.mocky.io/v2/5e95f5b92f0000b4730256c6
